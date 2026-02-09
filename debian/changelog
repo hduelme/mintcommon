@@ -1,3 +1,14 @@
+mint-common (2.5.1) zena; urgency=medium
+
+  [ Michael Webster ]
+  * github: Add test-package trigger.
+  * build.yml: Fix typo
+
+  [ Hans-Fritz Pommes ]
+  * Add Flatpak modify-repo action (#71)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 09 Feb 2026 17:05:33 +0000
+
 mint-common (2.5.0) zena; urgency=medium
 
   [ Michael Webster ]
